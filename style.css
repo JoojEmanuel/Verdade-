@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color:green;
+    display: grid;
+    place-items: center;
+
+}
+
+img{
+    max-width: 1849px;
+    max-height: 1754px;
+}
+
+h1{
+    font-size: 2.2rem;
+ 
+    margin-top: 1rem;
+ }
+
+ z{
+    font-size: medium;
+
+    margin-bottom: auto;
+ }
