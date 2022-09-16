@@ -1,0 +1,17 @@
+table, th, td{
+    border: 3px solid black; 
+    border-collapse: collapse;
+    font-size: medium;
+    font-display: center;
+    
+}
+
+body{
+    display: grid;
+    place-items: center;
+}
+
+h1{
+    font-size: 2rem;
+
+}
